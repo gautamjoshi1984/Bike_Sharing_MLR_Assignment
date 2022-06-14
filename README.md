@@ -1,5 +1,5 @@
 # Project Name
-> Bike Sharing Linear Regression Assignment
+- Bike Sharing Linear Regression Assignment
 
 
 ## Table of Contents
@@ -56,19 +56,18 @@ We are required to model the demand for shared bikes with the available independ
 ## Conclusions
 - Most important features that impact the demand
 
-- temp ~ For every unit increase in temperature, demand rises by .548 times, which is very significant
-- year ~ With each year the demand can rise by .23 times, year is also a significant variable and for a startup company the
+- temp: For every unit increase in temperature, demand rises by .548 times, which is very significant
+- year: With each year the demand can rise by .23 times, year is also a significant variable and for a startup company the
     starting years are years of growth
-- windspeed ~ Windspeed is negatively impacting the demand, for unit rise in windspeed the demand decreases by .153
-- season_2 (Spring) and season_4(Winter) are also significantly impacting the demand i.e. .0881 & .1293 respectively
-- weathersit_2 (Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist) and weathersit_3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain +  
-  Scattered clouds) are also negatively impacting the demand by 0.0784 and 0.2829 respectively.
+- windspeed: Windspeed is negatively impacting the demand, for unit rise in windspeed the demand decreases by .153
+- season_2: (Spring) and season_4(Winter) are also significantly impacting the demand i.e. .0881 & .1293 respectively
+- weathersit_2: (Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist) and weathersit_3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain +   Scattered clouds) are also negatively impacting the demand by 0.0784 and 0.2829 respectively.
 
 It is recommended that the above factors are considered in particular while planning to cater the demand.
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by the knowledge and learning provided to us during our live sessions and couse provied by UpGrad and IIIT(B)
+- This project was inspired by the knowledge and learning provided to us during our live sessions and couse provied by UpGrad and IIIT(Bangalore)
 
 
 ## Contact
